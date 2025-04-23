@@ -1,3 +1,8 @@
+# Penerapan PWA dan API 
+- Menerapkan Progressive Website App (PWA) yang mampu menggunakan beberapa teknologi modern yang membuat user experience seperti menggunakan Native App (Android/iOS).
+- Melakukan deploy pada firebase
+- Menggunakan Node JS dan framework React JS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
